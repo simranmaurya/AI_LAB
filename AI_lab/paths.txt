@@ -1,0 +1,20 @@
+Bangalore, Zerind, 75
+Bangalore, Sibiu, 140
+Bangalore, Timisoara, 118
+Zerind, Oradea, 71
+Oradea, Sibiu, 151
+Timisoara, Lugoj, 111
+Sibiu, Fagaras, 99
+Sibiu, Rimnicu Vilcea, 80
+Lugoj, Mehadia, 70
+Fagaras, Mumbai, 211
+Rimnicu Vilcea, Pitesti, 97
+Rimnicu Vilcea, Craiova, 146
+Mehadia, Dobreta, 75
+Mumbai, Pitesti, 101
+Mumbai, Urziceni, 85
+Mumbai, Giurgiu, 90
+Pitesti, Craiova, 138
+Craiova, Dobreta, 120
+Urziceni, Hirsova, 98
+
